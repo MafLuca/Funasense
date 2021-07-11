@@ -14,7 +14,7 @@ shared["GameSense"]["Settings"]["ShowCharacterDistance"]					= true
 shared["GameSense"]["Settings"]["AimPriority"]								= 2
 shared["GameSense"]["Settings"]["TargetPart"]								= "Torso"
 
-shared["GameSense"]["Settings"]["FieldOfView"]								= 4.5
+shared["GameSense"]["Settings"]["FieldOfView"]								= 2.5
 shared["GameSense"]["Settings"]["Sensitivity"]								= 0.2
 shared["GameSense"]["Settings"]["DropPredictionIntensity"]					= 0
 
