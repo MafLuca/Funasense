@@ -3,12 +3,12 @@
 shared.GameSense = {}; shared.Funsasense.Settings = {}
 
 shared.Funsasense.Settings["AimbotActive"]= true
-shared.Funsasense.Settings["TriggerBotActive"] = false
+shared.Funsasense.Settings["TriggerBotActive"] = true
 shared.Funsasense.Settings["Trigger Bot Delay"] = 0.25
 shared.Funsasense.Settings["Chameleon"] = false
 shared.Funsasense.Settings["Extra-Sensory Perception"] = true
-shared.Funsasense.Settings["Bounding Boxes"] = true
-shared.Funsasense.Settings["Line Tracers"] = true
+shared.Funsasense.Settings["Bounding Boxes"] = false
+shared.Funsasense.Settings["Line Tracers"] = false
 shared.Funsasense.Settings["Display Hud"] = true
 shared.Funsasense.Settings["Hide Username"] = false
 shared.Funsasense.Settings["Bounding Box Line Size"] = 1
