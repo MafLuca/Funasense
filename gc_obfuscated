@@ -12,7 +12,7 @@ shared["Funsasense"]["Settings"]["FreeForAll"]								= true
 shared["Funsasense"]["Settings"]["PerformanceMode"]							= false
 shared["Funsasense"]["Settings"]["ShowCharacterDistance"]					= true
 shared["Funsasense"]["Settings"]["AimPriority"]								= 2
-shared["Funsasense"]["Settings"]["TargetPart"]								= "Torsp"
+shared["Funsasense"]["Settings"]["TargetPart"]								= "Torso"
 
 shared["Funsasense"]["Settings"]["FieldOfView"]								= 2.5
 shared["Funsasense"]["Settings"]["Sensitivity"]								= 0.2
