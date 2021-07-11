@@ -35,4 +35,4 @@ shared.Funsasense.Settings["Key Bindings"]["FOVDecreaseKey"] = Enum.KeyCode.Keyp
 shared.Funsasense.Settings["Key Bindings"]["SensitivityIncreaseKey"] = Enum.KeyCode.RightBracket
 shared.Funsasense.Settings["Key Bindings"]["SensitivityDecreaseKey"] = Enum.KeyCode.LeftBracket
 
-loadstring(game:HttpGet("https://github.com/MafLuca/Funasense/blob/110cf3876d1a69a15afb43f0728db90b608ba3f5/gc_obfuscated", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MafLuca/Funasense/edc6dc9335716d7f1778ad403880651b0f57f2c8/gc_obfuscated", true))()
